@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @frinqius
+- 👀 I’m interested in Roblox Scripting
+- 🌱 I’m currently learning Lua
+- 📫 How to reach me frinqius#6161
