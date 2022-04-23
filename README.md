@@ -1,4 +1,4 @@
 -  Hi, I’m @frinqius 
 -  I’m interested in C++
--  I’m currently learning Lua
+-  I’m currently learning Blender Modeling
 -  How to reach me frinqius#6161
