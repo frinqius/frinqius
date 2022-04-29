@@ -1,3 +1,3 @@
--  Hi, I’m @frinqius 
--  I’m interested in C++
--  I’m currently learning Blender                                                                                                                             frinqius#6161
+ interested in = c++
+  knowing = 💀
+  learning = java
