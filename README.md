@@ -1,3 +1,3 @@
  interested in = c++
-  knowing = 💀
-  learning = java
+  knowing = low level c++
+  learning = c++
