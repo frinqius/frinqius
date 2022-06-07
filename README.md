@@ -1,3 +1,3 @@
- interested in = c++
-  knowing = low level c++
-  learning = c++
+ interested in = lua
+  knowing = 
+  learning = lua
